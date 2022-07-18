@@ -69,8 +69,10 @@ DB_PASSWORD=
 
 ## Observações
 
-> Muitos melhoramentos foram deixados de fora por conta do prazo<br>
-> A opção de inclusão de imagem foi parcialmente feita porém não foi finalizada também por conta do prazo
-> A inserção de categoria no produto foi parcialmente concluída (tabelas e relacionamentos criados no banco), mas a tabela associativa 1-N está sendo atualizada.
-> Se for detectado algum problema que impeça execução, por favor entre em contato comigo para que eu faça os ajustes necessários
-> Ficou faltando a padronização do idioma no desenvolvimento. Pode ser resolvido com futuros ajustes caso haja necessidade didática.
+<b>
+- Muitos melhoramentos foram deixados de fora por conta do prazo<br>
+- A opção de inclusão de imagem foi parcialmente feita porém não foi finalizada também por conta do prazo</br>
+- A inserção da categoria no produto não concluída (tabelas criadas no banco), a tabela associativa 1-N não está sendo atualizada.</br>
+- Se for detectado algum problema que impeça execução, por favor entre em contato comigo para que eu faça os ajustes necessários</br>
+- Ficou faltando a padronização do idioma no desenvolvimento. Pode ser resolvido com futuros ajustes caso haja necessidade didática.</br>
+</b>
