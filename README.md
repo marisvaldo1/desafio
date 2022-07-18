@@ -25,6 +25,12 @@ Para mais informações clique [aqui](https://www.apachefriends.org/pt_br/index.
 PHP 7.4.2
 JavaScript
 CSS
+
+bibliotecas
+jQuery (3.6.0)
+Bootstrap (3.4.1)
+font-awesome
+
 ```
 
 ## Pré-requisitos
@@ -42,13 +48,13 @@ Para instalar as dependência do projecto
 Instalar o composer para Windows
 Executar o composer install
 ```
-Baixar o composer para Windows nesse link [aqui](https://www.apachefriends.org/pt_br/download.html)
+Baixar o composer para Windows nesse link [aqui](https://getcomposer.org/Composer-Setup.exe)
 
 ## Banco de dados
 </br>Tipo de servidor: MariaDB
 </br>Versão do servidor: 10.4.19-MariaDB - mariadb.org binary distribution
 </br>Versão do protocolo: 10
-</br>Conjunto de caracteres do servidor: UTF-8 Unicode (utf8mb4) 🍻
+</br>Conjunto de caracteres do servidor: UTF-8 Unicode (utf8mb4)
 </br></br>
 As configurações do banco de dados estão no arquivo desafio/config/MySql.php
 
