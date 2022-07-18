@@ -5,7 +5,6 @@
 - [Para iniciar](#para-iniciar-o-serviço)
 - [Plataforma para execução do projeto](#plataforma-para-execução-do-projeto)
 - [Design de software](#design-de-software)
-- [Framework](#framework)
 - [Base de dados para execução das notificações](#base-de-dados-para-execução-das-notificações)
 - [Pré-requisitos](#pré-requisitos)
 - [Comandos básicos](#comandos-básicos)
