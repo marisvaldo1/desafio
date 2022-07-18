@@ -4,6 +4,7 @@
 
 - [Para iniciar](#para-iniciar-o-serviço)
 - [Plataforma para execução do projeto](#plataforma-para-execução-do-projeto)
+- [Design de software](#design-de-software)
 - [Linguagens utilizadas no desenvolvimento](#linguagem)
 - [Pré-requisitos](#pré-requisitos)
 - [Banco de dados](#banco-de-dados)
@@ -18,6 +19,12 @@ Essas instruções farão com que você tenha uma cópia do projeto em execuçã
 XAMPP
 ```
 Para mais informações clique [aqui](https://www.apachefriends.org/pt_br/index.html) para visitar a documentação oficial do xampp e baixar o servidor
+
+## Design de software
+
+```php
+S O L I D 
+```
 
 ## Linguagem
 
