@@ -42,7 +42,7 @@ include RAIZ . 'App/View/head.php';
                   <input type="text" class="form-control" id="price">
                 </div>
                 <div class="form-group col-md-4">
-                  <label for="quantity">Qyantity</label>
+                  <label for="quantity">Quantity</label>
                   <input type="text" class="form-control" id="quantity">
                 </div>
               </div>
