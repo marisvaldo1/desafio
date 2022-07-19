@@ -32,7 +32,7 @@ include RAIZ . 'App/View/head.php';
                 <input type="text" class="form-control" id="sku">
               </div>
               <div class="form-group">
-                <label for="code"> Pruct Name</label>
+                <label for="code"> Product Name</label>
                 <input type="text" class="form-control" id="name">
               </div>
 
