@@ -50,8 +50,10 @@ $(document).ready(function () {
                     linha += `    </td>\n`;
                     linha += `    <td class="data-grid-td">\n`;
                     linha += `      <div class="actions">\n`;
-                    linha += `          <div class="action"><a href="#" class="edit-category" id="${item.id_category}"><i class="fa fa-pencil fa-2x"></i></a></div>\n`;
-                    linha += `          <div class="action"><a href="#" class="delete-category" id="${item.id}"><i class="fa fa-trash fa-2x"></i></a></div>\n`;
+                    linha += `          <div class="action">\n`;
+                    linha += `              <a href="#" class="edit-category" id="${item.id_category}"><i class="fa fa-pencil fa-2x"></i></a>\n`;
+                    linha += `              <a href="#" class="delete-category" id="${item.id}"><i class="fa fa-trash fa-2x"></i></a>\n`;
+                    linha += `          </div>\n`;
                     linha += `      </div>\n`;
                     linha += `    </td>\n`;
                     linha += `  </tr>\n`;
