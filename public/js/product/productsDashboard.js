@@ -60,3 +60,13 @@ $(document).ready(function () {
         }
     });
 });
+
+$(document).on(`click`, `.add-product`, function () {
+    $(`#sku`).val(''),
+    $(`#name`).val(''),
+    $(`#price`).val(''),
+    $(`#quantity`).val(''),
+    $(`#description`).val('')
+    
+    $("#modalProduct").modal({ backdrop: false });
+});

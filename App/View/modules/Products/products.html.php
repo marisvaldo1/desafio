@@ -86,7 +86,6 @@ include RAIZ . 'App/View/head.php';
       </div>
     </div>
   </div>
-  </div>
   <!-- Modal -->
 
 </main>
