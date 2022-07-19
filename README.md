@@ -51,11 +51,12 @@ Start no MySql
 Entar no diretório onde foi instalado o Xampp e entrar na pasta htdocs
 Clonar o projecto dentro desse diretório e será criado o diretório xampp/htdocs/desafio onde todos os arquivos do projeto serão colocados.
 
-Para instalar as dependência do projecto
+Baixar o composer para Windows nesse link [aqui](https://getcomposer.org/Composer-Setup.exe)
+
+Para instalar as dependência do projeto
 Instalar o composer para Windows
 Executar o composer install
 ```
-Baixar o composer para Windows nesse link [aqui](https://getcomposer.org/Composer-Setup.exe)
 
 ## Banco de dados
 </br>Tipo de servidor: MariaDB
