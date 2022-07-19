@@ -43,13 +43,13 @@ font-awesome
 ## Pré-requisitos
 
 ```php
-Entar no diretório onde foi instalado o Xampp e entrar na pasta htdocs
-Clonar o projecto dentro desse diretório
 Fazer download do Xampp versão Windows (64 bits) nesse endereço clique [aqui](https://www.apachefriends.org/pt_br/download.html)
-
 Instalar e executar o Xampp
 Start no apahe 
 Start no MySql
+
+Entar no diretório onde foi instalado o Xampp e entrar na pasta htdocs
+Clonar o projecto dentro desse diretório e será criado o diretório xampp/htdocs/desafio onde todos os arquivos do projeto serão colocados.
 
 Para instalar as dependência do projecto
 Instalar o composer para Windows
