@@ -64,6 +64,8 @@ Baixar o composer para Windows nesse link [aqui](https://getcomposer.org/Compose
 </br>Conjunto de caracteres do servidor: UTF-8 Unicode (utf8mb4)
 </br></br>
 As configurações do banco de dados estão no arquivo desafio/config/MySql.php
+<br>
+</br>O Script do banco de dados está no arquivo desafio/App/docs/scriptDataBase.sql
 
 ```php
 DB_CONNECTION=mysql
