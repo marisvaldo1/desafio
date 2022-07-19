@@ -43,7 +43,7 @@ font-awesome
 ## Pré-requisitos
 
 ```php
-Entar no diretório foi instalado o Xampp e entrar na pasta htdocs
+Entar no diretório onde foi instalado o Xampp e entrar na pasta htdocs
 Clonar o projecto dentro desse diretório
 Fazer download do Xampp versão Windows (64 bits) nesse endereço clique [aqui](https://www.apachefriends.org/pt_br/download.html)
 
